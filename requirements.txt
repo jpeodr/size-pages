@@ -1,0 +1,3 @@
+selenium
+matplotlib
+chromedriver-autoinstaller
