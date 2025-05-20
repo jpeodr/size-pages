@@ -1,21 +1,21 @@
-# 📊 Analisador de Tamanho de Páginas Web
+# Analisador de Tamanho de Páginas Web
 
 Este projeto tem como objetivo analisar o **tamanho total de páginas da web** (incluindo HTML, imagens, CSS, JS etc.) e gerar um **gráfico de barras vertical** com os resultados, organizados **em ordem alfabética** e exibindo os valores **em MB**.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-- ✅ Analisa o tamanho total de diversas páginas web.
-- ✅ Geração automática de gráficos com os resultados.
-- ✅ Gráficos com ordenação alfabética dos domínios.
-- ✅ Exibição de tamanho total em **MB**.
-- ✅ Execução automatizada com navegador em modo **headless** (sem abrir janelas).
-- ✅ Compatível com Windows, macOS e Linux.
+- Analisa o tamanho total de diversas páginas web.
+- Geração automática de gráficos com os resultados.
+- Gráficos com ordenação alfabética dos domínios.
+- Exibição de tamanho total em **MB**.
+- Execução automatizada com navegador em modo **headless** (sem abrir janelas).
+- Compatível com Windows, macOS e Linux.
 
 ---
 
-## 🧰 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Python 3.10 ou superior
 - [Selenium](https://www.selenium.dev/)
@@ -24,11 +24,11 @@ Este projeto tem como objetivo analisar o **tamanho total de páginas da web** (
 
 ---
 
-## 📦 Instalação
+## Instalação
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/size-pages.git
+git clone https://github.com/jpeodr/size-pages.git
 cd size-pages
 
 # 2. (Opcional) Crie e ative um ambiente virtual
