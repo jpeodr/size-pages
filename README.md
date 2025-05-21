@@ -40,3 +40,20 @@ source venv/bin/activate
 
 # 3. Instale as dependências
 pip install -r requirements.txt
+```
+## Utilização
+
+- No momento, é necessário inserir as URLs dos sites no código na **linha 11**, exemplo abaixo:
+
+```bash
+websites = [
+      "https://https://developer.hashicorp.com/terraform",
+      "https://www.google.com",
+      "https://https://www.cisco.com/"
+  ]
+```
+
+- Execute o script com o comando:
+  ```bash
+  python app.py
+  ```
